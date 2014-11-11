@@ -6,7 +6,7 @@ R ruotines and data used in following  work.
 
 ## Code Authors
 
-Alfonso Crisci ( Manteiner)
+Alfonso Crisci ( Code Mantainer)
 
 Marco Morabito
 
