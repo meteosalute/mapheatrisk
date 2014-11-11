@@ -15,8 +15,8 @@ Marco Morabito
 
 Urban-hazard risk analysis: mapping of heat-related risks in the elderly in major Italian cities
 
-Marco Morabitoa (b), Alfonso Crisci (a), Beniamino Gioli(a), Giovanni Gualtieri(a), Piero Toscano(a), Valentina Di Stefano(c),
-Simone Orlandini (b,c,d), Gian Franco Gensinib (e)
+Marco Morabito (a), Alfonso Crisci (a), Beniamino Gioli(a), Giovanni Gualtieri(a), Piero Toscano(a), Valentina Di Stefano(c),
+Simone Orlandini (b,c,d), Gian Franco Gensinib (b,e)
 
 (a) Institute of Biometeorology, National Research Council - Via Giovanni Caproni 8, 50145 Florence, Italy.
 
