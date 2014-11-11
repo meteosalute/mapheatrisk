@@ -6,13 +6,15 @@ R ruotines and data used in following  work.
 
 ## Code Authors
 
-Alfonso Crisci ( Mainteniner) 
+Alfonso Crisci ( Manteiner)
+
 Marco Morabito
 
 
 ## Paper
 
 Urban-hazard risk analysis: mapping of heat-related risks in the elderly in major Italian cities
+
 Marco Morabitoa (b), Alfonso Crisci (a), Beniamino Gioli(a), Giovanni Gualtieri(a), Piero Toscano(a), Valentina Di Stefano(c),
 Simone Orlandini (b,c,d), Gian Franco Gensinib (e)
 
